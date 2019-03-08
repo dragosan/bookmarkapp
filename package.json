@@ -1,0 +1,16 @@
+{
+  "name": "bookmarks-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Mostafa Mansour",
+  "homepage": "https://dragosan.github.io/bookmarkapp",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
